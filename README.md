@@ -10,13 +10,13 @@ Type `gem install fraction`
 
 ## Running
 Go into the directory where the file is locate and input `ruby rref_solver.rb`
-![Image of Run](https://ibb.co/THc7pnK)
+![Run](https://i.ibb.co/y80ZGMh/Run.png)
 
 ## Input Matrix**
 Input your matrix one row at a time with spaces in between numbers.
 Hit enter to enter a new row
-![Image of Enter](https://ibb.co/0CP6vNX)
+![Enter](https://i.ibb.co/JvXGgLd/Enter.png)
 
 ## Starting program
 Type Start or s in a new line to start the program
-![Image of Start](https://ibb.co/FzzGTXz)
+![Solve](https://i.ibb.co/PggBHMg/Solve.png)
