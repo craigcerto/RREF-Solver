@@ -6,14 +6,15 @@ Download Ruby if not already done.
 
 The package "fraction" (https://github.com/clord/fraction) is used to approximate fractions
 
-Type "gem install fraction"
+Type `gem install fraction`
 
 ## Running
-Go into the directory where the file is locate and input "ruby rref_solver.rb"
+Go into the directory where the file is locate and input `ruby rref_solver.rb`
+![Image of Run](https://drive.google.com/file/d/1B0IcRVPr6plQlZnN5onyAmpsIYWn5w21/view?usp=sharing)
 
 ## Input Matrix**
 Input your matrix one row at a time with spaces in between numbers.
 Hit enter to enter a new row
 
-## Starting program**
+## Starting program
 Type Start or s in a new line to start the program
