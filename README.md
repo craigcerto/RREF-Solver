@@ -9,7 +9,7 @@ The package "fraction" (https://github.com/clord/fraction) is used to approximat
 Type `gem install fraction`
 
 ## Running
-Go into the directory where the file is locate and input `ruby rref_solver.rb`
+Go into the directory where the file is locate and input `ruby rref_script.rb`
 ![Run](https://i.ibb.co/y80ZGMh/Run.png)
 
 ## Input Matrix**
