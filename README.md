@@ -21,3 +21,5 @@ Hit enter to enter a new row
 Type Start or s in a new line to start the program
 
 ![Solve](https://i.ibb.co/PggBHMg/Solve.png)
+
+Written by Craig Certo
